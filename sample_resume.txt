@@ -1,0 +1,12 @@
+Jane Example
+jane.example@example.com | +64 21 555 0123
+
+EDUCATION
+Bachelor of Science, Computer Science - University of Auckland, 2022 - Present
+
+EXPERIENCE
+Junior Developer, Example Ltd, Jan 2024 - Present
+Support Assistant, Sample Co, Feb 2023 - Dec 2023
+
+SKILLS
+Python, SQL, Flask, Git, React, C++
